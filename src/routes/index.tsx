@@ -1,6 +1,5 @@
 // IMPORTS
 // ------------------------------------------------------------
-import { useState } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
 
